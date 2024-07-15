@@ -1,0 +1,15 @@
+/Users/saurabh/Projects/Saurabh_DS_Problems/DS/bin/Debug/net8.0/DS
+/Users/saurabh/Projects/Saurabh_DS_Problems/DS/bin/Debug/net8.0/DS.deps.json
+/Users/saurabh/Projects/Saurabh_DS_Problems/DS/bin/Debug/net8.0/DS.runtimeconfig.json
+/Users/saurabh/Projects/Saurabh_DS_Problems/DS/bin/Debug/net8.0/DS.dll
+/Users/saurabh/Projects/Saurabh_DS_Problems/DS/bin/Debug/net8.0/DS.pdb
+/Users/saurabh/Projects/Saurabh_DS_Problems/DS/obj/Debug/net8.0/DS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saurabh/Projects/Saurabh_DS_Problems/DS/obj/Debug/net8.0/DS.AssemblyInfoInputs.cache
+/Users/saurabh/Projects/Saurabh_DS_Problems/DS/obj/Debug/net8.0/DS.AssemblyInfo.cs
+/Users/saurabh/Projects/Saurabh_DS_Problems/DS/obj/Debug/net8.0/DS.csproj.CoreCompileInputs.cache
+/Users/saurabh/Projects/Saurabh_DS_Problems/DS/obj/Debug/net8.0/DS.sourcelink.json
+/Users/saurabh/Projects/Saurabh_DS_Problems/DS/obj/Debug/net8.0/DS.dll
+/Users/saurabh/Projects/Saurabh_DS_Problems/DS/obj/Debug/net8.0/refint/DS.dll
+/Users/saurabh/Projects/Saurabh_DS_Problems/DS/obj/Debug/net8.0/DS.pdb
+/Users/saurabh/Projects/Saurabh_DS_Problems/DS/obj/Debug/net8.0/DS.genruntimeconfig.cache
+/Users/saurabh/Projects/Saurabh_DS_Problems/DS/obj/Debug/net8.0/ref/DS.dll
